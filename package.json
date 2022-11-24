@@ -1,0 +1,19 @@
+{
+  "name": "interfaces-ts",
+  "version": "1.0.0",
+  "description": "\"Learning interfaces in TypeScript\"",
+  "main": "./src/app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliarusu/interfaces-ts.git"
+  },
+  "author": "Natalia Rusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliarusu/interfaces-ts/issues"
+  },
+  "homepage": "https://github.com/nataliarusu/interfaces-ts#readme"
+}
